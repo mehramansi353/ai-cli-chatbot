@@ -7,6 +7,16 @@ Currently Supported Providers
 - OpenAI
 - Google Gemini
 
+- Google Gemini 3.5 Flash Model output/response from chatbot:
+
+  <img width="1790" height="912" alt="image" src="https://github.com/user-attachments/assets/55f6cb7a-dfd7-4067-9ae8-924ce4080ace" />
+
+
+
+- Open AI GPT 4o-mini Model output/response from chatbot:
+
+  <img width="1777" height="836" alt="image" src="https://github.com/user-attachments/assets/6eacb79b-1e45-4568-9fa2-4c1c7901ef22" />
+
 ---
 
 ## Features
